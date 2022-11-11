@@ -1,4 +1,4 @@
 @Library("devops@ci") _
 pushDockerHub(
-ecrRepoName: 'hello-world-java'
+ecrRepoName: 'hello2-java-proj'
 )
